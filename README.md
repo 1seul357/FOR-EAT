@@ -2,6 +2,8 @@
 
 ![logo](README.assets/logo.png)
 
+</br>
+
 ## 목차
 
 ​	[1. FOR:EAT](#for:eat)
@@ -16,7 +18,7 @@
 
 ​	[6. Team Introduce](#team-introduce)
 
-
+</br>
 
 ## FOR:EAT
 
@@ -26,7 +28,7 @@
 
 💡 **Team 포릿 Notion**
 
-
+</br>
 
 ## 주요 기능
 
@@ -54,13 +56,11 @@
 
 ![WeeklyReport](README.assets/WeeklyReport.png)
 
-
-
-
+</br>
 
 ## Development Stack
 
-![워드 클라우드](README.assets/워드 클라우드.jpg)**협업**
+![워드 클라우드](README.assets/워드클라우드.jpg)**협업**
 - Jira
 - Gitlab
 - Notion
@@ -85,9 +85,7 @@
 - MySQL
 - Visual Studio Code, Postman, Mysql Workbench, Sourcetree
 
-
-
-
+</br>
 
 ## Getting Started
 
@@ -100,7 +98,6 @@ front/back 의 `.env` 파일은 sercret key 문제로 요청 시 보내드리겠
   ```
   git clone https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103.git
   ```
-
 ### Frontend
 
 - 시스템 버전
@@ -118,8 +115,6 @@ front/back 의 `.env` 파일은 sercret key 문제로 요청 시 보내드리겠
     ```
       npm start
     ```
-    
-
 ### Backend
 
 - 시스템 버전
@@ -144,21 +139,21 @@ front/back 의 `.env` 파일은 sercret key 문제로 요청 시 보내드리겠
 
 ### 배포
 
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/exec/%ED%8F%AC%ED%8C%85%20%EB%A7%A4%EB%89%B4%EC%96%BC.md">배포 관련 문서</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/exec/%ED%8F%AC%ED%8C%85%20%EB%A7%A4%EB%89%B4%EC%96%BC.md">배포 관련 문서</a>
 
-
+</br>
 
 ## Document
 
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/API_%EB%AA%85%EC%84%B8%EC%84%9C.pdf">API 명세서</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/ERD.pdf">ERD</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/%ED%99%94%EB%A9%B4%EA%B5%AC%EC%A1%B0%EB%8F%84.pdf">화면구조도</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C.pdf">기능 정의서</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf">와이어프레임</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf">아키텍처</a>
-- <a href="https://lab.ssafy.com/s06-bigdata-rec-sub2/S06P22A103/-/blob/develop/docs/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md">추천 알고리즘</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/API_%EB%AA%85%EC%84%B8%EC%84%9C.pdf">API 명세서</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/ERD.pdf">ERD</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/%ED%99%94%EB%A9%B4%EA%B5%AC%EC%A1%B0%EB%8F%84.pdf">화면구조도</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C.pdf">기능 정의서</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf">와이어프레임</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf">아키텍처</a>
+- <a href="https://github.com/1seul357/FOR-EAT/blob/develop/docs/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md">추천 알고리즘</a>
 
-
+</br>
 
 ## Team Introduce
 
