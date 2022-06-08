@@ -135,7 +135,7 @@ front/back 의 `.env` 파일은 sercret key 문제로 요청 시 보내드리겠
     python manage.py loaddata recipes/fixtures/category.json
     python manage.py loaddata recipes/fixtures/recipe_final.json
     ```
-    
+</br>    
 
 ### 배포
 
